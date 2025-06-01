@@ -17,9 +17,9 @@ Adapun insight dari dataset ini adalah:
 3. Data hanya dicatat pada hari kerja, tidak termasuk akhir pekan.
 
 - **Tren Penjualan**:
-- Penjualan Stagnan hingga 2010, lalu meningkat bertahap hingga 2018 karena perkembangan internet, mobile, dan media sosial.
-- Terjadi penurunan singkat terjadi di 2018–2019, tapi naik lagi di akhir 2019. Lonjakan besar pada 2020 akibat pandemi COVID-19.
-- Penurunan relatif di 2022 karena perubahan perilaku konsumen dan persaingan e-commerce yang meningkat.
+1. Penjualan Stagnan hingga 2010, lalu meningkat bertahap hingga 2018 karena perkembangan internet, mobile, dan media sosial.
+2. Terjadi penurunan singkat terjadi di 2018–2019, tapi naik lagi di akhir 2019. Lonjakan besar pada 2020 akibat pandemi COVID-19.
+3. Penurunan relatif di 2022 karena perubahan perilaku konsumen dan persaingan e-commerce yang meningkat.
 
 ## Prerequisite
 
