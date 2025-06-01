@@ -52,7 +52,7 @@ Adapun insight dari dataset ini adalah:
       ```
 
 ### B. Clone Repository dan Install Library
-1. Lakukan clone repository pada link [berikut]()
+1. Lakukan clone repository pada link [berikut](https://github.com/AndikaRT421/Inosoft_Tech_Test.git)
 2. Buka terminal pada directory repository tadi, lalu ganti ke environment `Inosoft_Test` yang telah dibuat:
      
     ```bash
